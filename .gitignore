@@ -1,0 +1,15 @@
+# VPN cookie output — never commit
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment / secrets
+.env
+
+# macOS
+.DS_Store
+
+.claude/
