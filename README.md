@@ -55,7 +55,7 @@ The workstation connects to the gateway over WireGuard and reaches each enterpri
 ## Build
 
 ```bash
-docker build -t forti-cookie .
+docker build -t yvlasov/forti-cookie .
 ```
 
 ## Usage
